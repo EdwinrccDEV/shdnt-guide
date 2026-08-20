@@ -261,7 +261,7 @@ Example of -50
 
 ---
 
-- #### 3.4.4.2 - Brightness
+- #### 3.4.4.3 - Brightness
 Makes the sprite lighter or darker.
 
 Example of 50
@@ -274,7 +274,7 @@ Example of -50
 
 ---
 
-- #### 3.4.4.2 - Contrast
+- #### 3.4.4.4 - Contrast
 Adjusts the difference between the dark and light areas of the sprite to make it pop more.
 
 Example of 50
